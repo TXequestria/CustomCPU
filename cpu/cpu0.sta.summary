@@ -1,0 +1,113 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -20.622
+TNS   : -5894.897
+
+Type  : Slow 1200mV 85C Model Setup 'controller:f1|alu_func[0]'
+Slack : -16.995
+TNS   : -16.995
+
+Type  : Slow 1200mV 85C Model Setup 'ir:f6|q[10]'
+Slack : -3.414
+TNS   : -63.670
+
+Type  : Slow 1200mV 85C Model Hold 'ir:f6|q[10]'
+Slack : -5.057
+TNS   : -69.758
+
+Type  : Slow 1200mV 85C Model Hold 'controller:f1|alu_func[0]'
+Slack : -1.262
+TNS   : -1.262
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.451
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -493.710
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ir:f6|q[10]'
+Slack : -1.798
+TNS   : -110.657
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'controller:f1|alu_func[0]'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -19.232
+TNS   : -5499.493
+
+Type  : Slow 1200mV 0C Model Setup 'controller:f1|alu_func[0]'
+Slack : -15.994
+TNS   : -15.994
+
+Type  : Slow 1200mV 0C Model Setup 'ir:f6|q[10]'
+Slack : -3.292
+TNS   : -63.529
+
+Type  : Slow 1200mV 0C Model Hold 'ir:f6|q[10]'
+Slack : -4.481
+TNS   : -61.502
+
+Type  : Slow 1200mV 0C Model Hold 'controller:f1|alu_func[0]'
+Slack : -1.128
+TNS   : -1.128
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.400
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -493.710
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ir:f6|q[10]'
+Slack : -1.801
+TNS   : -123.348
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'controller:f1|alu_func[0]'
+Slack : -0.104
+TNS   : -0.192
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -8.740
+TNS   : -2493.393
+
+Type  : Fast 1200mV 0C Model Setup 'controller:f1|alu_func[0]'
+Slack : -7.097
+TNS   : -7.097
+
+Type  : Fast 1200mV 0C Model Setup 'ir:f6|q[10]'
+Slack : -1.081
+TNS   : -13.098
+
+Type  : Fast 1200mV 0C Model Hold 'ir:f6|q[10]'
+Slack : -2.443
+TNS   : -34.966
+
+Type  : Fast 1200mV 0C Model Hold 'controller:f1|alu_func[0]'
+Slack : -0.570
+TNS   : -0.570
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.185
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -346.145
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ir:f6|q[10]'
+Slack : -0.482
+TNS   : -17.881
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'controller:f1|alu_func[0]'
+Slack : 0.303
+TNS   : 0.000
+
+------------------------------------------------------------
